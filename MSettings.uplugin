@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MSettings",
+	"Description": "Plugin for implementing various game settings changeable by user",
+	"Category": "Other",
+	"CreatedBy": "Miknios",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MSettings",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
